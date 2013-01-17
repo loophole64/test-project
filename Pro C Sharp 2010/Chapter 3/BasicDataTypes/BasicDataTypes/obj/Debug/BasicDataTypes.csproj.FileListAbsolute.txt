@@ -1,0 +1,5 @@
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

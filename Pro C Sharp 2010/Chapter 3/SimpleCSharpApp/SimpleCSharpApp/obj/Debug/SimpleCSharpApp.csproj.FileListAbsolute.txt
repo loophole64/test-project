@@ -1,0 +1,5 @@
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

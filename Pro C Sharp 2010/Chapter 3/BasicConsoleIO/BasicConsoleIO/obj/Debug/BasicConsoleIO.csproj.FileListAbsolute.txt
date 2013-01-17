@@ -1,0 +1,5 @@
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 3\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
