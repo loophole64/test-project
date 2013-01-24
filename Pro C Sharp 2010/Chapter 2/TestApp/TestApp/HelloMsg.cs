@@ -3,8 +3,8 @@ using System.Windows.Forms;
 
 class HelloMessage
 {
-	public void Speak()
+    public void Speak(string sB, string sA)
 	{
-		MessageBox.Show("Hello!!!");
+		MessageBox.Show(sA + sB);
 	}
 }

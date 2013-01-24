@@ -1,0 +1,5 @@
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\VS2010VS2012CompatabilityTest\VS2010VS2012CompatabilityTest\bin\Debug\VS2010VS2012CompatabilityTest.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\VS2010VS2012CompatabilityTest\VS2010VS2012CompatabilityTest\bin\Debug\VS2010VS2012CompatabilityTest.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\VS2010VS2012CompatabilityTest\VS2010VS2012CompatabilityTest\obj\Debug\VS2010VS2012CompatabilityTest.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\VS2010VS2012CompatabilityTest\VS2010VS2012CompatabilityTest\obj\Debug\VS2010VS2012CompatabilityTest.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\VS2010VS2012CompatabilityTest\VS2010VS2012CompatabilityTest\obj\Debug\VS2010VS2012CompatabilityTest.pdb

@@ -1,0 +1,4 @@
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 4\ParameterMods\ParameterMods\bin\Debug\ParameterMods.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 4\ParameterMods\ParameterMods\bin\Debug\ParameterMods.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 4\ParameterMods\ParameterMods\obj\x86\Debug\ParameterMods.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 4\ParameterMods\ParameterMods\obj\x86\Debug\ParameterMods.pdb

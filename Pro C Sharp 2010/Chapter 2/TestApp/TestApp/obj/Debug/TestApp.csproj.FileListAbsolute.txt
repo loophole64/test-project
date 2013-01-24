@@ -3,3 +3,9 @@ C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 2\
 C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\bin\Debug\TestApp.pdb
 C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Users\Jason\Documents\Visual Studio 2012\Projects\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 2\TestApp\TestApp\bin\Debug\TestApp.exe.config
