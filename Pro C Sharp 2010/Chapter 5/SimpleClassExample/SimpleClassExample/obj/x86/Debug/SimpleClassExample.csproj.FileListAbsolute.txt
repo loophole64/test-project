@@ -1,0 +1,4 @@
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 5\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 5\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 5\SimpleClassExample\SimpleClassExample\obj\x86\Debug\SimpleClassExample.exe
+C:\Users\Jason\Documents\GitHub\test-project\Pro C Sharp 2010\Chapter 5\SimpleClassExample\SimpleClassExample\obj\x86\Debug\SimpleClassExample.pdb
