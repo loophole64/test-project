@@ -8,11 +8,12 @@ namespace Employees
     class Employee
     {
         // Field Data
-        private string empName;
-        private int empId;
-        private float currPay;
-        private int empAge;
-        private string empSsn;
+        protected string empName;
+        protected int empId;
+        protected float currPay;
+        protected int empAge;
+        protected string empSsn;
+        protected BenefitsPackage empBenefits = new BenefitsPackage();
 
         // Properties
         public int Id { get { return empId; } set { empId = value; } }
@@ -30,6 +31,11 @@ namespace Employees
         }
         public int Age { get { return empAge; } set { empAge = value; } }
         public string SocialSecurityNumber { get { return empSsn; } protected set { empSsn = value; } }
+        public double GetBenefitCost()
+        {
+            return empBenefits.ComputePayDeduction();
+        }
+        public BenefitsPackage Benefits { get { return empBenefits; } set { empBenefits = value; } }
 
 
         // Constructors.
