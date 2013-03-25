@@ -15,5 +15,12 @@ namespace Employees
         {
             StockOptions = numOfOpts;
         }
+
+        public override void GiveBonus(float amount)
+        {
+            base.GiveBonus(amount);
+            Random r = new Random();
+            StockOptions += r.Next(500);
+        } 
     }
 }

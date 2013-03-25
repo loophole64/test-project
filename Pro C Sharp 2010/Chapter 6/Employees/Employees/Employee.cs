@@ -51,7 +51,7 @@ namespace Employees
         }
 
         // Methods
-        public void GiveBonus(float amount) { Pay += amount; }
+        public virtual void GiveBonus(float amount) { Pay += amount; }
 
         public void DisplayStats()
         {
